@@ -70,6 +70,7 @@ Klipper!! I was new to klipper at the start of my build, a month or so in and it
 <br>Input shaping - Absolute blessing! Really helps to ramp up print speeds while maintaining quality!
 <br>Cancel Object Pre-processor. I'm sorry, whaaaaaa?! So I can cancel prints on a multiple build if I don't like how they're going?! AMAZING!!! 
 <br>KAMPS - this is now running, I was really tired when trying to implement this and foolishly got my macro name the wrong way around in the slicer, all now works and I am tweaking the adaptive purge line / Voron purge line to my liking!
+<br> Not all fans are wired the same.... for some reason fans are coming out of china now with the polarities switched in the terminal plug. This has taught me not to play when tired as things go pop!! If anyone looks at this and is wondering why I've chosen to use the SKR's HB and HE ports for fans instead of any of the SKIPR's 3 pwm controllable ports, here is your reason!
 
 **Things I'm still learning:**
 
